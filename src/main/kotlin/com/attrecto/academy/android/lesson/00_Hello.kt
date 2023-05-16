@@ -1,9 +1,7 @@
 package com.attrecto.academy.android.lesson
 
 /*
-Üdvözöllek az A̶t̶t̶r̶e̶c̶t̶o̶ ̶A̶k̶a̶d̶é̶m̶i̶á̶n̶ Excel programozó leszek Akadémián!
-
-Van kérdésed az Attrecto Akadémiával kapcsolatban?
+Üdvözöllek az Attrecto Kotlin, Android (és Excel programozó) Akadémián!
 
 Gyakorlat orientált képzés (bevezető) felépítése: közös kódolás, feladatok, megoldás, óra végén házi feladat.
 
@@ -11,6 +9,8 @@ Gyakorlat orientált képzés (bevezető) felépítése: közös kódolás, fela
 - Minimum Android 4.2 (api 17, 2012), nem csak az android telefonok fejlődnek, a fejlesztés is fejlődik, pl.:
   * Java helyett kotlin ami már nem tananyag az egyetemen ezért van ez a bevezető néhány alkalom
   * XML layout-ok helyett Compose
+
+Van kérdésed az Attrecto Akadémiával kapcsolatban?
 
 Kezdjünk is neki!
 */
