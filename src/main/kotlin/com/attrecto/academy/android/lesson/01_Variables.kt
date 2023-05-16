@@ -9,7 +9,7 @@ fun main() {
     // Változó készítés kezdő értékkel
     // Type inference: kitalálja mi lehet a típusa. Még egyszerűbben írhatjuk: var streetName = "Wesselényi"
     var streetName: String = "Wesselényi"
-    // TODO próbáld meg egyszerűbben, a típus megadása nélkül: streetName = "Wesselényi"
+    // TODO lehet egyszerűbben, a típus megadása nélkül: streetName = "Wesselényi"
 
     // Mivel nem kell típust megadni, úgy tűnhet, hogy dinamikus típusa van egy változónak, de nem.
     // Ami egyszer int, az nem lehet más.
