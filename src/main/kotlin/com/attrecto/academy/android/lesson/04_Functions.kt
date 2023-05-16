@@ -43,9 +43,9 @@ fun Int.timesTwo() = this * 2
 fun main() {
     hello()
     val four = returnsAFour()
-    println("four = $four")
+    println("returnsAFour = $four")
     val four2 = returnsAFourVerySimple()
-    println("four2 = $four2")
+    println("returnsAFourVerySimple = $four2")
 
     hello("Balázs")
 

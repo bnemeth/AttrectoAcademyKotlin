@@ -5,6 +5,8 @@ fun main() {
     var streetNumber: Int
 
     // Amíg nem adunk neki értéket, addig nem tudjuk használni
+    // Próbáld meg kiiratni a streetNumber változó értékét
+    // TODO
 
     // Változó készítés kezdő értékkel
     // Type inference: kitalálja mi lehet a típusa. Még egyszerűbben írhatjuk: var streetName = "Wesselényi"
