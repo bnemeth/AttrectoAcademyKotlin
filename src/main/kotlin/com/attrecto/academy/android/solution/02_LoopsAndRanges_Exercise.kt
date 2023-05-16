@@ -4,7 +4,7 @@ package com.attrecto.academy.android.solution
 Legyél Te is Excel programozó!!
 https://exceltitok.hu/excel-fuggveny/
 
-Készítsd el a "SZUM" függvény megfelelőjét, számold ki egy listában lévő egész számok összegét
+Készítsd el a "SZUM" függvény megfelelőjét, számold ki egy listában lévő egész számok összegét.
 */
 
 fun main() {

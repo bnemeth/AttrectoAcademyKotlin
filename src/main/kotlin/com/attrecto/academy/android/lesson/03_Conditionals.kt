@@ -54,4 +54,10 @@ fun main() {
         result is Int && result > 0 -> "It is a positive int"
         else -> "Other"
     }
+
+    // Készíts egy "age" változót bármilyen kezdeti értékkel
+    // TODO
+
+    // az "age" alapján írd ki hogy felnőtt, vagy gyerek
+    // TODO
 }

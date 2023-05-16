@@ -9,19 +9,24 @@ fun main() {
     // Változó készítés kezdő értékkel
     // Type inference: kitalálja mi lehet a típusa. Még egyszerűbben írhatjuk: var streetName = "Wesselényi"
     var streetName: String = "Wesselényi"
-    // TODO lehet egyszerűbben, a típus megadása nélkül: streetName = "Wesselényi"
+
+    // Próbáld ki, lehet egyszerűbben a típus megadása nélkül: streetName = "Wesselényi"
+    // TODO
 
     // Mivel nem kell típust megadni, úgy tűnhet, hogy dinamikus típusa van egy változónak, de nem.
-    // Ami egyszer int, az nem lehet más.
-    // TODO próbáld értékül adni a streetNumber változónak az "alma" string-et.
+    // Ami egyszer int, az nem lehet más. Próbáld értékül adni a streetNumber változónak az "alma" string-et.
+    // TODO
 
     // Amit kifejezetten szeretünk, a nem változtatható változó. Mindig ugyanez, sok gond nem lehet vele.
     // Java-ban nem volt ilyen. Idővel hozzászokik az ember és nagyon örül amikor valami nem változik.
     // Az IDE is szól ha
     val zip = "9024"
-    // TODO próbálj meg új értéket adni a zip változónak, zip = "9025"
 
-    // TODO próbálj meg új értéket adni a streetName változónak
+    // Próbálj meg új értéket adni a zip változónak, zip = "9025"
+    // TODO
+
+    // Próbálj meg új értéket adni a streetName változónak
+    // TODO
 
     // Nagyon sok típus van: Int, Long, String. Mindegyik objektum (nincs primitív típus)
     // Ennek most akkor mi a típusa?

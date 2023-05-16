@@ -46,6 +46,12 @@ fun main() {
         println(city)
     }
 
+    // Készíts egy szám listát 1-től 10-ig. (És ha 1-től 100-ig kellene?)
+    // TODO
+
+    // Írasd ki a szám lista elemeit.
+    // TODO
+
     // Elöltesztelős ciklus
     var i = 100
     while (i > 0) {
