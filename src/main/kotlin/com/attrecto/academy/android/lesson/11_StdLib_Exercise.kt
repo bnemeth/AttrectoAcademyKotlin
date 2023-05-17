@@ -1,4 +1,4 @@
-package com.attrecto.academy.android.solution
+package com.attrecto.academy.android.lesson
 
 /*
 Legyél Te is Excel programozó!!
@@ -22,14 +22,11 @@ fun main() {
     )
 
     // Számold össze hány cella van
-    val count = data.count()
-    println(count)
+    // TODO
 
     // Gyűjtsd össze az 'A' oszlop celláit
-    val filtered = data.filter { it.column == 'A' }
-    println(filtered)
+    // TODO
 
     // Gyűjtsd össze a cellák összes értékét
-    val names = data.map { it.value }
-    println(names)
+    // TODO
 }
