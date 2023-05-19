@@ -9,7 +9,7 @@ Pl.:
 3 lépcső : 1+2, 2+1, 1+1+1 = 3
 4 lépcső : 2+2, 1+1+2, 1+2+1, 2+1+1, 1+1+1+1 = 5
 
-Ötlet a megoldáshoz: rekurzív függvény,
+Ötlet a megoldáshoz: rekurzív függvény
 Ha elakadtál : https://www.geeksforgeeks.org/count-ways-reach-nth-stair/
  */
 
