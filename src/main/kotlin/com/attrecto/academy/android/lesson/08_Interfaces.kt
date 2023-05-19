@@ -33,7 +33,7 @@ class SQLBookDataSource : BookDataSource {
 }
 
 fun main() {
-    val dataSource :BookDataSource = SQLBookDataSource()
+    val dataSource: BookDataSource = SQLBookDataSource()
     println(dataSource.select())
     println(dataSource.first())
     println(dataSource.getById(5))

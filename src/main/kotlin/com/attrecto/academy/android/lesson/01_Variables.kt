@@ -12,7 +12,7 @@ fun main() {
     // Type inference: kitalálja mi lehet a típusa. Még egyszerűbben írhatjuk: var streetName = "Wesselényi"
     var streetName: String = "Wesselényi"
 
-    // Próbáld ki, lehet egyszerűbben a típus megadása nélkül: streetName = "Wesselényi"
+    // Próbáld ki, lehet egyszerűbben a típus megadása nélkül: streetName2 = "Wesselényi"
     // TODO
 
     // Mivel nem kell típust megadni, úgy tűnhet, hogy dinamikus típusa van egy változónak, de nem.

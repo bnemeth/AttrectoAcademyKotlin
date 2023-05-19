@@ -1,9 +1,5 @@
 package com.attrecto.academy.android.solution
 
-/*
-Legyél Te is Excel programozó!!
-https://exceltitok.hu/excel-fuggveny/
-*/
 
 fun main() {
 

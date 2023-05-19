@@ -22,7 +22,7 @@ Kezdjünk is neki!
 
 // Nincs szükség osztályra ahhoz hogy létrehozzunk egy függvényt
 
-// Kód kiegészítés, új fájl példa
+// Kód kiegészítés példa
 fun main() {
     println("Helló Kotlin")
 }

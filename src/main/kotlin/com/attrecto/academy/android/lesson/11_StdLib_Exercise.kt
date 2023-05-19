@@ -1,9 +1,5 @@
 package com.attrecto.academy.android.lesson
 
-/*
-Legyél Te is Excel programozó!!
-https://exceltitok.hu/excel-fuggveny/
-*/
 
 fun main() {
 
@@ -24,8 +20,10 @@ fun main() {
     // Számold össze hány cella van
     // TODO
 
+
     // Gyűjtsd össze az 'A' oszlop celláit
     // TODO
+
 
     // Gyűjtsd össze a cellák összes értékét
     // TODO
